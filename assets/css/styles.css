@@ -511,6 +511,7 @@ input {
   font-size: var(--h3-font-size);
   text-align: center;
   margin-top: 1rem;
+  color: var(--white-color);
 }
 .services__button {
   cursor: pointer;
