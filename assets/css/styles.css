@@ -183,7 +183,7 @@ input {
 
 .grid {
   display: grid;
-  gap: 1.5rem;
+  gap: 1rem;
 }
 
 /*=============== HEADER ===============*/
@@ -497,7 +497,7 @@ input {
   border-radius: 0.25rem;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.15);
   transition: 0.3s;
-  margin-right: 1rem;
+
 }
 .services__content:hover {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.15);
@@ -695,6 +695,7 @@ input {
   .services__icon {
     font-size: 2rem;
   }
+  
  
   
   .place__container {
